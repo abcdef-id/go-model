@@ -13,8 +13,5 @@
 				"maxLifetime": 300
 			}
 		}
-	},
-	"logdir": "",
-	"log_filename": "go-model-log",
-	"log_max_age": 15
+	}
 }
