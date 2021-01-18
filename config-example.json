@@ -1,0 +1,20 @@
+{
+	"database": {
+		"mysql": {
+			"driver": "mysql",
+			"host": "localhost",
+			"user": "root",
+			"password": "",
+			"db_name": "go-model",
+			"port": 3306,
+			"pool": {
+				"maxOpenConns": 100,
+				"maxIdleConns": 10,
+				"maxLifetime": 300
+			}
+		}
+	},
+	"logdir": "",
+	"log_filename": "go-model-log",
+	"log_max_age": 15
+}
